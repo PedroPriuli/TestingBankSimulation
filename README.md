@@ -18,5 +18,8 @@ obrigado, estarei em breve adicionando novos releases
 
 aceito sugestões e melhorias
 
+cadastre-se na comunidade
+http://www.grantingtechnology.org/Secure/User/CrudIdentity/580
+
 
 
