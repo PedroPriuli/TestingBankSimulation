@@ -16,10 +16,10 @@ Baixem o projeto e debuguem, testem e opinem suas idéias de melhorias
 
 obrigado, estarei em breve adicionando novos releases 
 
-aceito sugestões e melhorias
+sugestões e melhorias serão sempre bem vindos
 
 cadastre-se na comunidade
-http://www.grantingtechnology.org/Secure/User/CrudIdentity/580
+http://collaborator.grantingtechnology.org/Secure/User/CrudIdentity/580
 
 
 
