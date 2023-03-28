@@ -18,6 +18,8 @@ obrigado, estarei em breve adicionando novos releases
 
 sugestões e melhorias serão sempre bem vindos
 
+ATENÇÃO: ( PARA EVITAR AJUSTES, UTILIZE O SQL 2017 EXPRESS )
+
 cadastre-se na comunidade
 http://collaborator.grantingtechnology.org/Secure/User/CrudIdentity/580
 
